@@ -1,2 +1,0 @@
-# swaranada
-Ai music app
